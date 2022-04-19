@@ -1,0 +1,21 @@
+"Patients with suboptimal cell dose","Patients with primary graft failure","Patients with secondary graft failure","Patients readmitted within 30 days","Patients with 3rd or 4th grade GVHD within 100 days","Admit ICU Transfers?","X of Admit ICU Transfers?","100 day mortality on relapse?","100 day mortality?","Ordered Quarter"
+0,0,0,1,0,0,0,0,0,-19
+0,0,0,0.666666666666667,0.166666666666667,0,0,0,0,-18
+0,0,0,1,0,0,0,0.25,0.25,-17
+0,0,0,0.333333333333333,0.333333333333333,0,0,0,0,-16
+0,0,0,0,0,0,0,0,0,-15
+0,0,0,0.333333333333333,0,0,0,0,0,-14
+0,0,0,0,0.333333333333333,0.333333333333333,0.333333333333333,0,0,-13
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,-12
+0,0,0,0,0,0.5,1,0,0,-11
+0,0,0,0,0.25,0,0,0,0,-10
+0,0,0,0.75,0,0,0,0,0,-9
+0,0,0,0.5,0.5,0,0,0,0,-8
+NaN,0,0,0.666666666666667,0.333333333333333,0,0,0.333333333333333,0.333333333333333,-7
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,-6
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,-5
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,-4
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,-3
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,-2
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,-1
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,0
